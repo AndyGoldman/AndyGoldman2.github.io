@@ -6,3 +6,7 @@ text-shadow: 2px 2px rgb(120,107,64);
 body {
 	background-color: rgb(155,76,50);
 }
+
+#tagline {
+	display: inline-block;
+}
