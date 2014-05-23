@@ -7,7 +7,7 @@ body {
 	background-color: rgb(155,76,50);
 }
 
-#tagline {
+#tagline>li {
 	display: inline-block;
 	font-size: 1em;
 	color: rgb(172,151,98);
