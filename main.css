@@ -9,4 +9,6 @@ body {
 
 #tagline {
 	display: inline-block;
+	font-size: 1em;
+	color: rgb(172,151,98);
 }
