@@ -1,6 +1,6 @@
 h1 {
 	font-family: sans-serif;
-	font-size: 2em;
+	font-size: 4em;
 	color: rgb(120,107,64);
 	text-shadow: 2px 2px rgb(155,76,50);
 }
@@ -14,7 +14,6 @@ body {
 }
 
 #tagline {
-	display: inline-block;
 	width: 60%;
 	text-align: right;
 	font-family: inherit;
