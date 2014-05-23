@@ -6,8 +6,7 @@ h1 {
 }
 
 body {
-	background: linear-gradient(to bottom right, red , rgb(155,76,50));
-	background-color: rgb(155,76,50);
+	background: linear-gradient(to bottom right, rgb(155,76,50), rgb(120,107,64));
 }
 
 #header {
