@@ -32,9 +32,9 @@ body {
 	background-color: white;
 }
 
-#header {
-	width: 1350px;
-	background-color: black;
+.group {
+	width: 940px;
+	background-color: rgb(168,11,178);
 }
 
 #tagline {
