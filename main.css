@@ -1,4 +1,4 @@
-h1 {
+p #header {
 	width: 25%;
 	font-family: sans-serif;
 	font-size: 4em;
@@ -15,11 +15,12 @@ h2 {
 }
 
 body {
-	background: linear-gradient(to bottom right, rgb(184,165,141), rgb(155,76,50));
+	background-color: white;
 }
 
 #header {
-	width: 800px;	
+	width: 800px;
+	background-color: black;
 }
 
 #tagline {
