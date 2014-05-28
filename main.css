@@ -4,7 +4,6 @@ h1 {
 	font-size: 4em;
 	color: white;
 	text-shadow: 3px 3px rgb(155,76,50);
-	text-align: center;
 }
 
 h2 {
@@ -25,8 +24,10 @@ body {
 }
 
 #tagline {
-	width: 800px;
+	width: 400px;
 	text-align: right;
 	font-family: inherit;
 	color: rgb(97,97,41);
+	display: block;
+	float: right;
 }
