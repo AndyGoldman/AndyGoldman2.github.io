@@ -20,7 +20,7 @@
 	text-shadow: 3px 3px rgb(155,76,50);
 }
 
-.header2 {
+h2 {
 	display: block;
 	float:right
 	width: 25%;
@@ -39,7 +39,7 @@ body {
 	background-color: rgb(168,11,178);
 }
 
-#tagline {
+.header2 {
 	width: 400px;
 	text-align: right;
 	font-family: inherit;
