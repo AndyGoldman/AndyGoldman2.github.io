@@ -45,7 +45,8 @@ body {
 	width: 400px;
 	text-align: right;
 	font-family: inherit;
+	font-size: 1em;
 	color: rgb(193,153,31);
 	display: block;
-	float: right;
+	float: left;
 }
