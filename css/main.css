@@ -6,7 +6,7 @@
 .profile-photo {
   display: block;
 	float: left;
-  max-width: 130px;
+  max-width: 80px;
   margin: 0 auto;
   padding: 20px 0 0 0;
 }
@@ -43,7 +43,7 @@ body {
 	width: 400px;
 	text-align: right;
 	font-family: inherit;
-	color: rgb(97,97,41);
+	color: rgb(193,153,31);
 	display: block;
 	float: right;
 }
